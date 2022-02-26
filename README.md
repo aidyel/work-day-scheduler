@@ -2,7 +2,7 @@
 
 
 ## Purpose
-This application is a dayly planner that allows users to save events for each hour of the day.
+This application is a daily planner that allows users to save events for each hour of the day.
 
 ## Built with 
 *HTML
